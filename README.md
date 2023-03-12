@@ -15,3 +15,4 @@ Big-O gösterimini yazınız.
                    \         /
                 8 11 12 16 21 22
                 
+Big-o gösterimi 0(nlogn) 
